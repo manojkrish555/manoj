@@ -1,0 +1,8 @@
+com\kg\emailclientcrud\model\Contact.class
+com\kg\emailclientcrud\model\Inbox.class
+com\kg\emailclientcrud\controller\UserController.class
+com\kg\emailclientcrud\model\User.class
+com\kg\emailclientcrud\controller\Contactcontroller1.class
+com\kg\emailclientcrud\model\UserDetail.class
+com\kg\emailclientcrud\controller\LoginServlet.class
+com\kg\emailclientcrud\controller\UserDetailController.class
